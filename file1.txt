@@ -12,5 +12,5 @@ I worked on the code.
 I ate breakfast.
 I started preparing lunch.
 I ate lunch.
+I worked for sometime
 I took bath
-I made tea in evening

@@ -10,6 +10,7 @@ I prepared breakfast
 i cleaned house
 I worked on the code.
 I ate breakfast.
-I ate lunch.
 I started preparing lunch.
+I ate lunch.
 I took bath
+

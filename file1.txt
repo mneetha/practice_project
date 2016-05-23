@@ -12,3 +12,4 @@ I worked on the code.
 I ate breakfast.
 I ate lunch.
 I started preparing lunch.
+I took bath
